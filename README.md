@@ -56,7 +56,6 @@ To set up the project locally, follow these steps:
 2. **Create a virtual environment (optional but recommended)**:
 
    ```bash
-   Copy code
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
