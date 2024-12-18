@@ -1,0 +1,201 @@
+2024-12-18 18:41:09,061 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:09,705 - INFO - Model loaded successfully.
+2024-12-18 18:41:09,706 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:10,057 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:15,407 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:15,422 - INFO - Model loaded successfully.
+2024-12-18 18:41:15,423 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:15,443 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:15,638 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:15,659 - INFO - Model loaded successfully.
+2024-12-18 18:41:15,661 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:15,696 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:15,717 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 18:41:27,853 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:27,868 - INFO - Model loaded successfully.
+2024-12-18 18:41:27,869 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:27,896 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:29,882 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:29,898 - INFO - Model loaded successfully.
+2024-12-18 18:41:29,899 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:29,917 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:30,981 - INFO - BigMart Sales Prediction App started.
+2024-12-18 18:41:30,996 - INFO - Model loaded successfully.
+2024-12-18 18:41:30,998 - INFO - Encoders loaded successfully.
+2024-12-18 18:41:31,015 - INFO - Inputs encoded successfully.
+2024-12-18 18:41:31,029 - INFO - Prediction successful: 635.3829345703125
+2024-12-18 21:22:19,400 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:23:03,145 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:23:08,475 - INFO - Model loaded successfully.
+2024-12-18 21:23:08,488 - INFO - Encoders loaded successfully.
+2024-12-18 21:23:08,497 - INFO - Inputs encoded successfully.
+2024-12-18 21:23:13,777 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:23:13,786 - INFO - Model loaded successfully.
+2024-12-18 21:23:13,787 - INFO - Encoders loaded successfully.
+2024-12-18 21:23:13,797 - INFO - Inputs encoded successfully.
+2024-12-18 21:23:14,002 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:23:14,012 - INFO - Model loaded successfully.
+2024-12-18 21:23:14,012 - INFO - Encoders loaded successfully.
+2024-12-18 21:23:14,022 - INFO - Inputs encoded successfully.
+2024-12-18 21:23:14,044 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 21:23:16,556 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:26:38,485 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:26:39,509 - INFO - Model loaded successfully.
+2024-12-18 21:26:39,510 - INFO - Encoders loaded successfully.
+2024-12-18 21:31:10,216 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:31:10,834 - INFO - Model loaded successfully.
+2024-12-18 21:31:10,834 - INFO - Encoders loaded successfully.
+2024-12-18 21:31:11,124 - INFO - Inputs encoded successfully.
+2024-12-18 21:36:13,080 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:36:13,676 - INFO - Model loaded successfully.
+2024-12-18 21:36:13,677 - INFO - Encoders loaded successfully.
+2024-12-18 21:36:13,956 - INFO - Inputs encoded successfully.
+2024-12-18 21:36:23,874 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:36:23,893 - INFO - Model loaded successfully.
+2024-12-18 21:36:23,893 - INFO - Encoders loaded successfully.
+2024-12-18 21:36:23,904 - INFO - Inputs encoded successfully.
+2024-12-18 21:36:27,069 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:36:27,086 - INFO - Model loaded successfully.
+2024-12-18 21:36:27,087 - INFO - Encoders loaded successfully.
+2024-12-18 21:36:27,097 - INFO - Inputs encoded successfully.
+2024-12-18 21:40:33,615 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:40:34,183 - INFO - Model loaded successfully.
+2024-12-18 21:40:34,183 - INFO - Encoders loaded successfully.
+2024-12-18 21:40:34,490 - INFO - Inputs encoded successfully.
+2024-12-18 21:48:43,246 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:48:43,848 - INFO - Model loaded successfully.
+2024-12-18 21:48:43,849 - INFO - Encoders loaded successfully.
+2024-12-18 21:48:44,160 - INFO - Inputs encoded successfully.
+2024-12-18 21:49:05,712 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:06,294 - INFO - Model loaded successfully.
+2024-12-18 21:49:06,294 - INFO - Encoders loaded successfully.
+2024-12-18 21:49:26,601 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:26,610 - INFO - Model loaded successfully.
+2024-12-18 21:49:26,610 - INFO - Encoders loaded successfully.
+2024-12-18 21:49:26,621 - INFO - Inputs encoded successfully.
+2024-12-18 21:49:29,075 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:29,090 - INFO - Model loaded successfully.
+2024-12-18 21:49:29,092 - INFO - Encoders loaded successfully.
+2024-12-18 21:49:29,119 - INFO - Inputs encoded successfully.
+2024-12-18 21:49:29,123 - ERROR - Invalid Item Identifier: 
+2024-12-18 21:49:33,501 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:33,518 - INFO - Model loaded successfully.
+2024-12-18 21:49:33,518 - INFO - Encoders loaded successfully.
+2024-12-18 21:49:33,528 - INFO - Inputs encoded successfully.
+2024-12-18 21:49:35,037 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:35,046 - INFO - Model loaded successfully.
+2024-12-18 21:49:35,047 - INFO - Encoders loaded successfully.
+2024-12-18 21:49:35,059 - INFO - Inputs encoded successfully.
+2024-12-18 21:49:35,067 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 21:49:37,527 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:49:37,544 - INFO - Model loaded successfully.
+2024-12-18 21:49:37,546 - INFO - Encoders loaded successfully.
+2024-12-18 21:50:30,026 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:50:30,039 - INFO - Model loaded successfully.
+2024-12-18 21:50:30,040 - INFO - Encoders loaded successfully.
+2024-12-18 21:50:50,394 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:50:50,409 - INFO - Model loaded successfully.
+2024-12-18 21:50:50,410 - INFO - Encoders loaded successfully.
+2024-12-18 21:51:43,933 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:51:43,941 - INFO - Model loaded successfully.
+2024-12-18 21:51:43,942 - INFO - Encoders loaded successfully.
+2024-12-18 21:56:44,783 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:56:44,789 - INFO - Model loaded successfully.
+2024-12-18 21:56:44,790 - INFO - Encoders loaded successfully.
+2024-12-18 21:56:51,903 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:56:51,911 - INFO - Model loaded successfully.
+2024-12-18 21:56:51,912 - INFO - Encoders loaded successfully.
+2024-12-18 21:56:51,921 - INFO - Inputs encoded successfully.
+2024-12-18 21:56:53,273 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:56:53,285 - INFO - Model loaded successfully.
+2024-12-18 21:56:53,286 - INFO - Encoders loaded successfully.
+2024-12-18 21:59:50,015 - INFO - BigMart Sales Prediction App started.
+2024-12-18 21:59:50,026 - INFO - Model loaded successfully.
+2024-12-18 21:59:50,028 - INFO - Encoders loaded successfully.
+2024-12-18 21:59:50,042 - INFO - Inputs encoded successfully.
+2024-12-18 22:00:10,682 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:00:10,689 - INFO - Model loaded successfully.
+2024-12-18 22:00:10,690 - INFO - Encoders loaded successfully.
+2024-12-18 22:00:10,699 - INFO - Inputs encoded successfully.
+2024-12-18 22:10:21,128 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:10:22,563 - INFO - Model loaded successfully.
+2024-12-18 22:10:22,566 - INFO - Encoders loaded successfully.
+2024-12-18 22:10:29,320 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:10:29,330 - INFO - Model loaded successfully.
+2024-12-18 22:10:29,330 - INFO - Encoders loaded successfully.
+2024-12-18 22:10:29,343 - INFO - Inputs encoded successfully.
+2024-12-18 22:10:35,383 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:10:35,399 - INFO - Model loaded successfully.
+2024-12-18 22:10:35,401 - INFO - Encoders loaded successfully.
+2024-12-18 22:10:35,432 - INFO - Inputs encoded successfully.
+2024-12-18 22:10:37,464 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:10:37,481 - INFO - Model loaded successfully.
+2024-12-18 22:10:37,483 - INFO - Encoders loaded successfully.
+2024-12-18 22:10:37,514 - INFO - Inputs encoded successfully.
+2024-12-18 22:10:37,557 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 22:12:37,186 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:12:37,187 - ERROR - Error loading model: [Errno 2] No such file or directory: 'final_sales_pickle.pkl'
+2024-12-18 22:13:03,306 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:13:04,082 - INFO - Model loaded successfully.
+2024-12-18 22:13:04,083 - INFO - Encoders loaded successfully.
+2024-12-18 22:13:08,395 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:13:08,418 - INFO - Model loaded successfully.
+2024-12-18 22:13:08,420 - INFO - Encoders loaded successfully.
+2024-12-18 22:13:08,456 - INFO - Inputs encoded successfully.
+2024-12-18 22:13:14,605 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:13:14,617 - INFO - Model loaded successfully.
+2024-12-18 22:13:14,618 - INFO - Encoders loaded successfully.
+2024-12-18 22:13:14,635 - INFO - Inputs encoded successfully.
+2024-12-18 22:13:14,821 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:13:14,843 - INFO - Model loaded successfully.
+2024-12-18 22:13:14,845 - INFO - Encoders loaded successfully.
+2024-12-18 22:13:14,883 - INFO - Inputs encoded successfully.
+2024-12-18 22:13:14,908 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 22:14:52,935 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:14:53,631 - INFO - Model loaded successfully.
+2024-12-18 22:14:53,632 - INFO - Encoders loaded successfully.
+2024-12-18 22:14:57,333 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:14:57,348 - INFO - Model loaded successfully.
+2024-12-18 22:14:57,349 - INFO - Encoders loaded successfully.
+2024-12-18 22:14:57,364 - INFO - Inputs encoded successfully.
+2024-12-18 22:15:01,484 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:01,499 - INFO - Model loaded successfully.
+2024-12-18 22:15:01,501 - INFO - Encoders loaded successfully.
+2024-12-18 22:15:01,520 - INFO - Inputs encoded successfully.
+2024-12-18 22:15:01,705 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:01,721 - INFO - Model loaded successfully.
+2024-12-18 22:15:01,722 - INFO - Encoders loaded successfully.
+2024-12-18 22:15:01,756 - INFO - Inputs encoded successfully.
+2024-12-18 22:15:01,781 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 22:15:33,328 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:33,341 - INFO - Model loaded successfully.
+2024-12-18 22:15:33,343 - INFO - Encoders loaded successfully.
+2024-12-18 22:15:35,446 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:35,464 - INFO - Model loaded successfully.
+2024-12-18 22:15:35,466 - INFO - Encoders loaded successfully.
+2024-12-18 22:15:35,481 - INFO - Inputs encoded successfully.
+2024-12-18 22:15:37,727 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:37,747 - INFO - Model loaded successfully.
+2024-12-18 22:15:37,748 - INFO - Encoders loaded successfully.
+2024-12-18 22:15:47,387 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:15:48,118 - INFO - Model loaded successfully.
+2024-12-18 22:15:48,119 - INFO - Encoders loaded successfully.
+2024-12-18 22:16:05,815 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:16:06,422 - INFO - Model loaded successfully.
+2024-12-18 22:16:06,423 - INFO - Encoders loaded successfully.
+2024-12-18 22:16:09,335 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:16:09,344 - INFO - Model loaded successfully.
+2024-12-18 22:16:09,345 - INFO - Encoders loaded successfully.
+2024-12-18 22:16:09,359 - INFO - Inputs encoded successfully.
+2024-12-18 22:16:13,720 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:16:13,753 - INFO - Model loaded successfully.
+2024-12-18 22:16:13,755 - INFO - Encoders loaded successfully.
+2024-12-18 22:16:13,788 - INFO - Inputs encoded successfully.
+2024-12-18 22:16:13,934 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:16:13,951 - INFO - Model loaded successfully.
+2024-12-18 22:16:13,953 - INFO - Encoders loaded successfully.
+2024-12-18 22:16:13,985 - INFO - Inputs encoded successfully.
+2024-12-18 22:16:14,009 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 22:16:45,994 - INFO - BigMart Sales Prediction App started.
+2024-12-18 22:16:46,012 - INFO - Model loaded successfully.
+2024-12-18 22:16:46,013 - INFO - Encoders loaded successfully.
