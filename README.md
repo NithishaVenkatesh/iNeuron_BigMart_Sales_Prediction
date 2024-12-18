@@ -50,6 +50,54 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
+   bash
    git clone https://github.com/NithishaVenkatesh/iNeuron_BigMart_Sales_Prediction.git
    cd iNeuron_BigMart_Sales_Prediction
+   
+2. **Create a virtual environment (optional but recommended)**:
+
+   bash
+   Copy code
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
+3. **Install the required packages**:
+
+   bash
+   pip install -r requirements.txt
+
+## Usage
+
+Ensure the dataset is in the project directory. If not, download it from the link provided above and place it appropriately.
+
+Run the data preprocessing and model training script:
+
+bash
+python app.py
+
+**For prediction**:
+Load the trained model (BigMart_Model.pkl).
+Prepare the input data in the required format.
+Use the model's predict method to obtain sales predictions.
+
+## Modeling Approach
+The project follows these steps:
+
+**Exploratory Data Analysis (EDA)**: Understanding data distributions, identifying missing values, and uncovering patterns.
+
+**Data Preprocessing**: Handling missing values, encoding categorical variables, and feature scaling.
+
+**Feature Engineering**: Creating new features based on existing data to enhance model performance.
+
+**Model Selection**: Evaluating multiple regression algorithms, including Linear Regression, Random Forest Regressor, and XGBoost, to identify the best-performing model.
+
+**Model Evaluation**: Assessing model performance using metrics such as RMSE (Root Mean Squared Error) and R² score.
+
+**Hyperparameter Tuning**: Optimizing model parameters to improve accuracy.
+
+## Results
+
+The final model achieved the following performance metrics on the test set:
+
+- **R² Score**: 0.87
