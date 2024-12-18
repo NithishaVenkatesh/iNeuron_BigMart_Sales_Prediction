@@ -12,8 +12,7 @@ This project aims to predict sales for BigMart outlets using machine learning te
 - [Usage](#usage)
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -50,13 +49,13 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
 
-   bash
+   ```bash
    git clone https://github.com/NithishaVenkatesh/iNeuron_BigMart_Sales_Prediction.git
    cd iNeuron_BigMart_Sales_Prediction
    
 2. **Create a virtual environment (optional but recommended)**:
 
-   bash
+   ```bash
    Copy code
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -64,9 +63,10 @@ To set up the project locally, follow these steps:
 
 3. **Install the required packages**:
 
-   bash
+   ```bash
    pip install -r requirements.txt
 
+---
 ## Usage
 
 Ensure the dataset is in the project directory. If not, download it from the link provided above and place it appropriately.
@@ -80,6 +80,8 @@ python app.py
 Load the trained model (BigMart_Model.pkl).
 Prepare the input data in the required format.
 Use the model's predict method to obtain sales predictions.
+
+---
 
 ## Modeling Approach
 The project follows these steps:
@@ -95,6 +97,8 @@ The project follows these steps:
 **Model Evaluation**: Assessing model performance using metrics such as RMSE (Root Mean Squared Error) and R² score.
 
 **Hyperparameter Tuning**: Optimizing model parameters to improve accuracy.
+
+---
 
 ## Results
 
