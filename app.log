@@ -199,3 +199,26 @@
 2024-12-18 22:16:45,994 - INFO - BigMart Sales Prediction App started.
 2024-12-18 22:16:46,012 - INFO - Model loaded successfully.
 2024-12-18 22:16:46,013 - INFO - Encoders loaded successfully.
+2024-12-18 23:22:16,822 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:22:18,454 - INFO - Model loaded successfully.
+2024-12-18 23:22:18,465 - INFO - Encoders loaded successfully.
+2024-12-18 23:22:24,464 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:22:24,478 - INFO - Model loaded successfully.
+2024-12-18 23:22:24,479 - INFO - Encoders loaded successfully.
+2024-12-18 23:22:24,496 - INFO - Inputs encoded successfully.
+2024-12-18 23:22:29,268 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:22:29,286 - INFO - Model loaded successfully.
+2024-12-18 23:22:29,287 - INFO - Encoders loaded successfully.
+2024-12-18 23:22:29,307 - INFO - Inputs encoded successfully.
+2024-12-18 23:22:29,492 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:22:29,511 - INFO - Model loaded successfully.
+2024-12-18 23:22:29,513 - INFO - Encoders loaded successfully.
+2024-12-18 23:22:29,548 - INFO - Inputs encoded successfully.
+2024-12-18 23:22:29,591 - INFO - Prediction successful: 765.6499633789062
+2024-12-18 23:22:32,439 - DEBUG - Popen(['git', 'version'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,510 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,566 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,635 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,712 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,770 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=<valid stream>, shell=False, universal_newlines=False)
+2024-12-18 23:22:32,823 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\Users\NITHISHA_V\Documents\iQube\Internships\iNeuron\store_sales_prediction\iNeuron_BigMart_Sales_Prediction, stdin=None, shell=False, universal_newlines=False)
